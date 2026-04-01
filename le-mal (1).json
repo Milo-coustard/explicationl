@@ -21,56 +21,56 @@
             },
             {
               "id": "a2",
-              "col": "#e60000",
+              "col": "#cc0000",
               "arg": "Métaphore",
               "cit": "crachats rouges de la mitraille",
               "interp": "La métaphore des balles comparées à des « crachats » rabaisse la guerre à un acte bestial et méprisable. Rimbaud désacralise volontairement le combat en le rendant vulgaire et dégoûtant."
             },
             {
               "id": "a3",
-              "col": "#cc2200",
+              "col": "#ff3333",
               "arg": "Allitération + Assonance / Rimes croisées",
               "cit": "Sifflent tout le jour par l'infini du ciel bleu ; mitraille ; bleu ; raille ; feu",
               "interp": "L'allitération en [s] et [f] et l'assonance en [i] miment le sifflement des balles — le son illustre le sens. Les rimes croisées ABAB associent « mitraille » et « raille » (le roi qui se moque) : le pouvoir ricane pendant que les soldats meurent."
             },
             {
               "id": "a4b",
-              "col": "#b34700",
+              "col": "#ff6600",
               "arg": "Métaphore",
               "cit": "écarlates ou verts",
               "interp": "La métaphore des couleurs vives « écarlates ou verts » associée aux uniformes militaires crée une image presque picturale et ironique — la guerre est présentée comme un spectacle coloré alors qu'elle est une boucherie."
             },
             {
               "id": "a5",
-              "col": "#f96600",
+              "col": "#cc5200",
               "arg": "Groupe nominal / Champ lexical de la boucle",
               "cit": "tout le jour ; infini ; écarlates ou verts",
               "interp": "Les groupes nominaux évoquant la durée (« tout le jour »), l'espace (« infini ») et la boucle répétitive du carnage donnent une dimension écrasante à la guerre — elle est sans fin, omniprésente, inéluctable."
             },
             {
               "id": "a6",
-              "col": "#ff5500",
+              "col": "#ff9900",
               "arg": "Hyperbole",
               "cit": "folie épouvantable ; les bataillons en masse dans le feu",
               "interp": "L'hyperbole amplifie démesurément l'horreur. « Folie épouvantable » suggère une violence irrationnelle et aveugle, tandis que « en masse » déshumanise les soldats réduits à un flux anonyme et consommable."
             },
             {
               "id": "a7",
-              "col": "#ff7700",
+              "col": "#ffcc00",
               "arg": "Champ lexical de la déshumanisation",
               "cit": "qui les raille ; cent milliers d'hommes ; dans le feu",
               "interp": "Les hommes sont comptés en masse et traités avec mépris. Rimbaud dénonce la logique industrielle et cynique de la guerre : les soldats ne sont plus des individus mais du matériel consommable."
             },
             {
               "id": "a8",
-              "col": "#ff9900",
+              "col": "#ffd633",
               "arg": "Proposition subordonnée relative / Hyperbole",
               "cit": "qui les raille ; cent milliers d'hommes",
               "interp": "La relative « qui les raille » incrimine directement le Roi, responsable et indifférent. L'hyperbole « cent milliers d'hommes » donne une dimension écrasante au massacre et renforce la dénonciation politique."
             },
             {
               "id": "a9",
-              "col": "#ffaa00",
+              "col": "#ffff00",
               "arg": "Adjectif / Interjection + Exclamation",
               "cit": "Pauvres ; morts !",
               "interp": "L'adjectif « Pauvres » exprime la pitié de Rimbaud pour les victimes anonymes. L'interjection et l'exclamation « morts ! » créent une rupture brutale — un cri de révolte et de compassion face à l'absurdité de la mort de masse."
@@ -83,49 +83,49 @@
           "args": [
             {
               "id": "u177506050576798817",
-              "col": "",
+              "col": "#00ff00",
               "arg": "Tonalité lyrique / Adverbe / Anaphore ",
               "cit": "ô ; saintement ; dans l'été, dans l'herbe, dans ta joie",
               "interp": "La tonalité lyrique marquée par l'interjection « ô » et l'adverbe « saintement » sacralise la Nature, élevée au rang de divinité bienveillante. L'anaphore « dans l'été, dans l'herbe, dans ta joie » crée un rythme ternaire doux qui contraste violemment avec la brutalité de la guerre."
             },
             {
               "id": "u177506054471476832",
-              "col": "",
+              "col": "#009933",
               "arg": "Champs lexical de la religion",
               "cit": "Dieu ; autel ; calice",
               "interp": "Le champ lexical de la religion (Dieu, autels, calice) est détourné ironiquement — Rimbaud décrit le luxe et le faste de l'Église pendant que les soldats meurent sur le champ de bataille."
             },
             {
               "id": "u177506054559149889",
-              "col": "",
+              "col": "#00ff99",
               "arg": "Forme impersonnelle + article indéfini / Proposition subordonnée relative / Champs lexical sommeil",
               "cit": "Il est un Dieu ; Qui rit au nappes damassées ; s'endort ; bercement ; réveille",
               "interp": "La forme impersonnelle « Il est un Dieu » introduit Dieu de façon froide et distante. La proposition relative « qui rit aux nappes damassées » le montre indifférent et cynique. Le champ lexical du sommeil (« s'endort », « bercement », « se réveille ») suggère un Dieu endormi, absent de la souffrance humaine."
             },
             {
               "id": "u177506054684710743",
-              "col": "",
+              "col": "#00ffff",
               "arg": "Complément circonstanciel de temps / Champs lexical de la richesse",
               "cit": "quand ; calice d'or ; sou ; nappes damassées",
               "interp": "Le complément circonstanciel de temps « quand » révèle que Dieu ne se réveille que pour recevoir les offrandes. L'antithèse entre le champ lexical de la richesse (« calices d'or », « nappes damassées ») et la pauvreté du « sou » dénonce l'exploitation des croyants miséreux par une Église opulente."
             },
             {
               "id": "u177506054820623912",
-              "col": "",
+              "col": "#0099ff",
               "arg": "Champs lexical du deuil",
               "cit": "pleurant ; noir ; mouchoir",
               "interp": "Le champ lexical du deuil (« pleurant », « noir », « mouchoir ») peint une image pathétique des mères en deuil. Le noir symbolise la mort, la pauvreté et l'abandon divin — ces femmes pleurent seules, sans secours de Dieu."
             },
             {
               "id": "u177506054963324668",
-              "col": "",
+              "col": "#0000ff",
               "arg": "Tonalité pathétique",
               "cit": "ramassées ; angoisse",
               "interp": "La tonalité pathétique s'impose avec « ramassées » (geste de repli sur soi, écrasement) et « angoisse » — Rimbaud exprime une compassion sincère pour ces femmes abandonnées par la religion qu'elles servent pourtant fidèlement."
             },
             {
               "id": "u177506055078972780",
-              "col": "",
+              "col": "#6600ff",
               "arg": "Ponctuation exclamative ",
               "cit": "r !",
               "interp": "La ponctuation exclamative finale crée une chute ironique et cinglante. Le point d'exclamation après l'offrande dérisoire du « sou » souligne l'absurdité tragique : ces mères donnent leur dernier centime à un Dieu riche et endormi."
