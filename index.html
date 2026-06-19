@@ -627,6 +627,9 @@ function buildHL(raw,cits,mode) {
     }
     i=j;
   }
+  html = html.replace(/\*\*(.*?)\*\*/g,'<strong>$1</strong>');
+  html = html.replace(/(^|[^*])\*([^*]+)\*(?!\*)/g,'$1<em>$2</em>');
+  
   return html;
 }
 
