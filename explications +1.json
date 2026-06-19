@@ -409,19 +409,163 @@
       "id": "u178179711022477566",
       "titre": "Le Menteur Acte I Scène 3",
       "auteur": "Pierre Corneille",
-      "texte": "",
-      "intro": "Au 17ème siècles, dans un contexte de monarchie absolue dirigé par Louis XVI. Pierre Corneille né à Rouen en 1604 et décède en 1684 à Paris. Il est un grand dramaturge Français qui a su avoir de l'admiration mais également de la controverse. Issue d'une famille bourgeoise, il fait une étude de droit mais se tourne rapidement vers le théâtre classique, et plus exactement vers la comédie.     ",
-      "problematique": "",
+      "texte": "**Dorante** : C’est l’effet du malheur qui partout m’accompagne.\nDepuis que j’ai quitté les guerres d’Allemagne,\nC’est-à-dire, du moins, depuis un an entier,\nJe suis et jour et nuit dedans votre quartier,\nJe vous cherche en tous lieux, au bal, aux promenades,\nVous n’avez que de moi reçu des sérénades,\nEt je n’ai pu trouver que cette occasion\nÀ vous entretenir de mon affection.\n**Clarice** : Quoi ! vous avez donc vu l’Allemagne et la guerre ?\n**Dorante** : Je m’y suis fait quatre ans craindre comme un tonnerre.\n**Cliton** : Que lui va-t-il conter ?\n**Dorante** : Et durant ces quatres ans\nIl ne s’est fait combats, ni sièges importants,\nNos armes n’ont jamais remporté de victoire,\nOù cette main n’ait eu bonne part à la gloire :\nEt la gazette même a souvent divulgués…\n***Cliton le tirant par la basque*** : Savez-vous bien, Monsieur, que vous extravaguez ?\n**Dorante** : Tais-toi.\n**Cliton** : Vous rêvez, dis-je, ou…\n**Dorante** : Tais-toi, misérable.\n**Cliton** : Vous venez de Poitiers, ou je me donne au diable, vous en revîntes hier.\n***Dorante à Cliton*** : Maraud, te tairas-tu ?\n***Dorante à Clarice*** : Avec assez d'honneur j'ai souvent combattu, et mon nom a fait bruit peut-être avec justice.\n**Clarice** : Qui vous a fait quitter un si noble exercice ?\n**Dorante** : Revenu l’autre hiver pour faire ici ma cour, je vous vis, et je fus retenu par l’amour. \nAttaqué par vos yeux, je leur rendis les armes, je me fis prisonnier de tant d’aimables charmes, \nje leur livrai mon âme, et ce cœur généreux dès ce premier moment oublia tout pour eux. \nVaincre dans les combats, commander dans l’armée, de mille exploits fameux enfler ma renommée, \net tous ces nobles soins qui m’avaient su ravir, cédèrent aussitôt à ceux de vous servir.\n***Isabelle à Clarice, tout bas*** : Madame, Alcippe approche, il aura de l’ombrage.\n**Clarice** : Nous en saurons, Monsieur, quelque jour davantage. Adieu.\n**Dorante** : Quoi ? me priver si tôt de tout mon bien !\n**Clarice** : Nous n’avons pas loisir d’un plus long entretien, et, malgré la douceur de me voir cajolée, \nil faut que nous fassions seules deux tours d’allée.\n**Dorante** : Cependant accordez à mes vœux innocents la licence d’aimer des charmes si puissants.\n**Clarice** : Un cœur qui veut aimer et qui sait comme on aime, \nn’en demande jamais licence qu’à soi-même. ",
+      "intro": "Au XVIIème siècles, dans un contexte de monarchie absolue dirigée par Louis XVI. Pierre Corneille, né à Rouen en 1604 et décédé en 1684 à Paris. Il est un grand dramaturge français qui a su avoir de l'admiration mais également de la controverse. Issu d'une famille bourgeoise, il fait une étude de droit mais se tourne rapidement vers le théâtre classique, et plus exactement vers la comédie puis vers la comédie-tragédie en faisant des pièces telles que le Cid. Il est un des plus grands auteurs du XVIIème siecle et aussi un fondateur du théâtre classique. Ici l'extrait provient du texte Le Menteur écrit en 1644, c'est une comédie qui raconte l'histoire de Dorante, un homme séduisant et brillant mais mythomane qui donne des situations inextricables. Les thèmes abordés dans cette pièce sont: la séduction ; la courtoisie ainsi que l'éloquence, l'idéalisation de la femme et enfin le jeu amoureux. Dans cette scène, Dorante rencontre Lucrèce et Clarice et cherche à les séduire. Cette scène d'exposition est clé car c'est la première fois que Dorante va mentir.",
+      "problematique": "Comment la situation initiale met en avant les séductions amoureuses par les mensonges de Dorante ?",
       "mouvements": [
         {
           "id": "u178179711022467083",
-          "titre": "",
+          "titre": "Dorante fait le récit d'exploits guerriers mensonger à  Clarice et Lucrèce",
           "args": [
             {
               "id": "u178179711022454020",
               "col": "",
-              "arg": "",
-              "cit": "",
+              "arg": "Personification",
+              "cit": "malheur qui partout m’accompagne.",
+              "interp": ""
+            },
+            {
+              "id": "u1781899287539760",
+              "col": "",
+              "arg": "Répétition / CCT / CCL",
+              "cit": "depuis ; un an entier, ; jour et nuit ; dedans votre quartier, ; en tous lieux, au bal, aux promenades, ",
+              "interp": ""
+            },
+            {
+              "id": "u178189952333124258",
+              "col": "",
+              "arg": "Phrases complexes juxtaposées ",
+              "cit": "Je vous cherche en tous lieux, au bal, aux promenades,\n",
+              "interp": ""
+            },
+            {
+              "id": "u178189962666873543",
+              "col": "",
+              "arg": "Négation / lexique de l'amour / pronoms personnels / Dièreze ",
+              "cit": "n’avez ; n’ai pu ; sérénades ; affection ; (je+vous) ; ades,",
+              "interp": ""
+            },
+            {
+              "id": "u178190019983763653",
+              "col": "",
+              "arg": "Exclamative / Interogation",
+              "cit": "Quoi ! ; l’Allemagne",
+              "interp": ""
+            },
+            {
+              "id": "u178190031158572816",
+              "col": "",
+              "arg": "Comparaison",
+              "cit": "Je m’y suis fait quatre ans craindre comme un tonnerre.",
+              "interp": ""
+            },
+            {
+              "id": "u178190034336385842",
+              "col": "",
+              "arg": "Interrogation direct (ironique) ",
+              "cit": "Que lui va-t-il conter ?",
+              "interp": ""
+            },
+            {
+              "id": "u178190065607127939",
+              "col": "",
+              "arg": "Champs lexical guerre / CCT / Négation / Métonymie / CCL",
+              "cit": "gloire ; victoire ; os armes ; guerre ; t combats ; sièges ; Et durant ces quatres ans ; n'ont jamais ; ne s'est fait ; ni sièges ; n'ait eu ; cette main ; la Gazette",
+              "interp": ""
+            }
+          ]
+        },
+        {
+          "id": "u178190128949766847",
+          "titre": "Cliton étonné face aux mensonges de son maître, il exprime son ressenti et ses reproches devant le discours de Dorante",
+          "args": [
+            {
+              "id": "u178190128949724542",
+              "col": "",
+              "arg": "Didascalie / Lexique de l'affabulation",
+              "cit": "le tirant par la basque ; rêvez ; extravagues ",
+              "interp": ""
+            },
+            {
+              "id": "u178190157964472922",
+              "col": "",
+              "arg": "Impératif / Invectives ",
+              "cit": "Tais-toi ; maraud ; miserable ; misérable",
+              "interp": ""
+            },
+            {
+              "id": "u178190158065310211",
+              "col": "",
+              "arg": "Cadre spatio-temporel / Proposition coordonnée",
+              "cit": "Poitiers; hier ; ou je me donne au diable",
+              "interp": ""
+            }
+          ]
+        },
+        {
+          "id": "u178190129190535822",
+          "titre": "Dorante cherche à séduire Clarice par un discour galant et précieux",
+          "args": [
+            {
+              "id": "u178190129190531936",
+              "col": "",
+              "arg": "Champs lexical de la gloire",
+              "cit": "succès ; exploit ; quelque bruit ; ma renommée ",
+              "interp": ""
+            },
+            {
+              "id": "u178190200254432738",
+              "col": "",
+              "arg": "Champs lexical de l'amour / Métaphore ",
+              "cit": "amour ; charmes, ; coeur ; aimable ; Attaqué par vos yeux, je leur rendis les armes",
+              "interp": ""
+            },
+            {
+              "id": "u178190200349154276",
+              "col": "",
+              "arg": "Hyperbole / Champs lexical de l'armée ",
+              "cit": "de mille exploits fameux enfler ma renommée ; commander ; combat ; l’armée",
+              "interp": ""
+            },
+            {
+              "id": "u178190200553453289",
+              "col": "",
+              "arg": "Discours précieux",
+              "cit": "je leur livrai mon âme, ; je me fis prisonnier ; tous ces nobles soins qui m’avaient su ravir, cédèrent aussitôt à ceux de vous servir.\n",
+              "interp": ""
+            }
+          ]
+        },
+        {
+          "id": "u178190129339460789",
+          "titre": "La fin de l'intrigue est présente puis viens la mise en place des péripéties ",
+          "args": [
+            {
+              "id": "u178190129339426122",
+              "col": "",
+              "arg": "Diadascalie ; Nom+therme péjoratif / Verbe au futur / Locution adverbiale",
+              "cit": "à Clarice, tout bas ; Alcippe ; ombrage ; aura ; saurons ; quelque jour ",
+              "interp": ""
+            },
+            {
+              "id": "u178190253498160270",
+              "col": "",
+              "arg": "Interogative / Exclamative / Hyperbole",
+              "cit": "Quoi ? ; mon bien ; me priver si tôt de tout mon bien",
+              "interp": ""
+            },
+            {
+              "id": "u178190253595565981",
+              "col": "",
+              "arg": "Pronoms personels / Adjectif / Lexique de la douceur",
+              "cit": "nous ; seules ; cajolée ; douceur ",
+              "interp": ""
+            },
+            {
+              "id": "u178190253712882340",
+              "col": "",
+              "arg": "Champs lexical de l'amour / Hyperbole / Personification ",
+              "cit": "vœux ; aime ; charmes ; cœur ; des charmes si puissants. ; n’en demande jamais licence qu’à soi-même.",
               "interp": ""
             }
           ]
